@@ -1,1 +1,1 @@
-# project for learn algorithm
+# project for algorithm learning
